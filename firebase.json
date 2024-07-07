@@ -1,5 +1,1 @@
-{
-  "database": {
-    "rules": "database.rules.json"
-  }
-}
+{"database":{"rules":"database.rules.json"},"flutter":{"platforms":{"android":{"default":{"projectId":"accountingdevapp","appId":"1:623162670259:android:5d3cde1811f5bd1e9504c6","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"accountingdevapp","configurations":{"android":"1:623162670259:android:5d3cde1811f5bd1e9504c6","ios":"1:623162670259:ios:57b71d910814fc879504c6"}}}}}}

@@ -1,7 +1,11 @@
 import 'package:accounting/shared/utils/spacers.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:google_sign_in/google_sign_in.dart';
 
+
+User? currentUser = FirebaseAuth.instance.currentUser;
 class Settings extends StatelessWidget {
   const Settings({super.key});
 
@@ -21,8 +25,8 @@ class Settings extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(),
-              title: Text("Sammed Twumasi"),
-              subtitle: Text("Sammed@gmail.com"),
+              title: Text(currentUser!.displayName.toString()),
+              subtitle: Text(currentUser!.tenantId.toString()),
             ),
             kSizedbox20,
             SettingButton(
@@ -44,6 +48,11 @@ class Settings extends StatelessWidget {
             SettingButton(
               icon: Icons.logout,
               title: "Logout",
+              onTap: ()async{
+                print('object');
+                await FirebaseAuth.instance.signOut();
+                await GoogleSignIn().signOut();
+              },
             ),
           ],
         ),
@@ -64,12 +73,16 @@ class SettingButton extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(bottom: 14.0),
       child: ElevatedButton(
+
+
           style: ButtonStyle(
+            elevation: WidgetStatePropertyAll(0),
+            backgroundColor: WidgetStatePropertyAll(Colors.transparent),
               side: WidgetStatePropertyAll<BorderSide>(BorderSide(color: Colors.black12)),
               shape: WidgetStatePropertyAll<OutlinedBorder>(
                   RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(15)))),
-          onPressed: () {},
+          onPressed: onTap,
           child: ListTile(
             contentPadding: EdgeInsets.zero,
             leading: Icon(icon),

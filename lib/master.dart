@@ -16,8 +16,8 @@ class Master extends StatefulWidget {
 }
 
 class _MasterState extends State<Master> {
-  final pageController = PageController(initialPage: 1);
-  int currentindex = 1;
+  final pageController = PageController(initialPage: 0);
+  int currentindex = 01;
 
   changeIndex(int index){
     setState(() {

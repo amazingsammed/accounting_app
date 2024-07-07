@@ -1,6 +1,10 @@
 
 
+import 'package:accounting/features/home/presentation/screens/topiclist.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import '../../../../shared/utils/spacers.dart';
 
@@ -23,7 +27,9 @@ class Home extends StatelessWidget {
           children: [
             kSizedbox10,
             HomeTileBig(
-              onTap: () {},
+              onTap: ()async {
+                Get.to(()=>Topiclist());
+              },
               bgColor: Colors.purple,
               title: 'Financial Accounting',
               subtitle: "Collection and recording of financial data",
