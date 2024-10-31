@@ -22,7 +22,7 @@ class _MasterState extends State<Master> {
   changeIndex(int index){
     setState(() {
       currentindex = index;
-      pageController.animateToPage(index, duration: Duration(microseconds: 300), curve: Curves.ease);
+      pageController.animateToPage(index, duration: const Duration(microseconds: 300), curve: Curves.ease);
     });
   }
 
@@ -37,7 +37,6 @@ class _MasterState extends State<Master> {
 
     return Scaffold(
       body: PageView(
-
           controller: pageController,
           onPageChanged: changeIndex,
           children: screens
@@ -56,8 +55,8 @@ class _MasterState extends State<Master> {
             ),
              BottomNavigationBarItem(
              // activeIcon: Icon(Icons.inventory_2_sharp),
-              icon: Icon(Icons.quiz_outlined),
-              label: 'Quiz',
+              icon: Icon(Icons.library_books),
+              label: 'Library',
             ),
             BottomNavigationBarItem(
             //  activeIcon: Icon(Icons.leaderboard_rounded),

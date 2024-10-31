@@ -148,11 +148,11 @@ Triple bottom line reporting is seen to be the ideal form of measurement, assess
 In this chapter we will look at the range of short and long-term sources of finance available to businesses and discuss the criteria which may be used by companies to choose from between each source of finance. Firms need fends to provide as working capital, invest in non-current assets and for all financial needs of the organisation. The main source of fends available to firms is their retained earnings, but that is unlikely to be sufficient to finance all their financial need.
 ## 	Criteria for choosing between sources of finance
 A firm must consider the following factors in their selection between the various sources of finance.
-a)	**Availability and Accessibility** - Not all sources of finance are available to all firms. Only listed companies will be able to make a public issue of bonds on a stock exchange. Smaller companies may have to obtain debt financing from their bank.
-b)	**Cost: issue and interest** - issue cost is associated with the arrangements for loan application or issuing new shares. Fixed rate finance may be more expensive but the business runs the risk of adverse upward rate movements if it chooses floating rate finance.
-c) **Security and covenants** - source of finance may be determined by what assets the business is willing or able to offer as collateral and covenants that the lenders wish to impose, These covenants restrict the borrower’s right to take certain actions until the debt has been repaid in fell.
-d)	**Gearing levels** - Using mainly debt sources of finance is cheaper in terms of tax reliefs on interest payments but high gearing is risky and can create financial distress.
-c) **Tax position** - investment in fixed assets will attract capital allowances. Depending on the current tax position of the firm and the treatment of those allowances, the company may find itself in a non-tax paying position.
+1.	**Availability and Accessibility** - Not all sources of finance are available to all firms. Only listed companies will be able to make a public issue of bonds on a stock exchange. Smaller companies may have to obtain debt financing from their bank.
+2.	**Cost: issue and interest** - issue cost is associated with the arrangements for loan application or issuing new shares. Fixed rate finance may be more expensive but the business runs the risk of adverse upward rate movements if it chooses floating rate finance.
+3. **Security and covenants** - source of finance may be determined by what assets the business is willing or able to offer as collateral and covenants that the lenders wish to impose, These covenants restrict the borrower’s right to take certain actions until the debt has been repaid in fell.
+4.	**Gearing levels** - Using mainly debt sources of finance is cheaper in terms of tax reliefs on interest payments but high gearing is risky and can create financial distress.
+5. **Tax position** - investment in fixed assets will attract capital allowances. Depending on the current tax position of the firm and the treatment of those allowances, the company may find itself in a non-tax paying position.
 ## **⦁	Short-term sources of finance**
 Short-term finance is usually needed by companies to run their day-to- day operations including payment of salaries, wages to employees, financing debtors and purchase of inventory. A range of short-term sources of finance are available to businesses. Some of these sources include:
 ### Trade credit
@@ -165,7 +165,7 @@ A term loan is for a fixed amount for an agreed time and on specified terms. It 
 A business may lease an asset rather than buying it outright. Operating tease commit the lessee to only a short-term contract or one that can be terminated on short notice. These are certainly not expected to last for the entire useful life of the asset. Operating lease is where the lesson retains most of the risks art rewards of ownership and is responsible for servicing and maintaining the leased asset. The lessee has possession and use of the asset upon payment of specified rentals over a period. The rentals paid on an operating lease are tax deductible and attracts tax reliefs.
 ### ⦁	Long-term sources of finance
 These sources may be categorised as equity and debt and are used usually to finance long-term investments. The term equity relates to ordinary shares only - Equity finance therefore, is the investment in a company by the ordinary shareholders, represented by the issued ordinary share capital plus reserves. There are other types of share capital relating to various types of preference shares but these are not considered part of equity, as their characteristics bear more resemblance to debt finance.
-A) **Equity sources**
+- **Equity sources**
 The main sources of equity finance are through the sale of ordinary shares to investors through a rights issue or new external share issues (placing, offers for sale, public issue, etc) and internally generated funds. Internally generated fund for corporate entities is mainly the retained earnings. Equity holders share in the rising prosperity of the business. These investors, as owners of the firm, have the right to exercise control over the company by voting at annual general meetings to determine such crucial matters as the composition of the board of directors, approve or disapprove of major strategic and policy issues such as the type of activities that the firm might engage in, or the decision to merge with another firm. There is no agreement between ordinary shareholders and the company that the investor will receive back the original capital invested. What the ordinary shareholder receives depends on how well the company is managed. Also, ordinary shareholders are the last in the queue to have their claims met when the income of the year are being distributed. Again, when a firm fold up, employees, tax authorities, trade creditors and lenders all come before ordinary shareholders. From the	company’s point of view there are two significant advantages of raising finance by selling shares.	
 1.	Usually there is no obligation to pay dividend and so when losses are made the company does not have the problem of finding money for a dividend.
 2.	The capital obtained from ordinary shareholders does not have to be repaid and thus do not have a redemption date.
@@ -192,5 +192,106 @@ Put at its simplest, debt has to be repaid. The usual method of debt repayment i
 ### Straight bonds
 They are traded on the stock market in much same way as shares, and are usually denominated in blocks of 0100 nominal value, may be secured or unsecured and may be redeemable or irredeemable. Irredeemable debt is not payable at any specified time in the future but instead, interest is payable in perpetuity. If the debt is redeemable then, the principal will be repayable at a future date.
 
-  """, bookid: 'FM300')
+  """, bookid: 'FM300'),
+  Topic(title: 'Research', content: """
+  # Research
+
+A **thesis/ dissertation** is a document that presented
+to graduate/undergraduate from a University.
+
+it also describes the research problem and its
+importance, and gives a detailed account of the
+methods that will be used and why they are
+appropriate.
+
+- **Research** is defined as A systematized effort to
+gain new knowledge.
+
+### Why conduct research?
+Research help us in making predictions
+To discover answers to questions through the application of scientific procedures
+To find out the truth which is hidden and which has not been discovered yet
+
+### Types of researches include
+1. Descriptive and analytical research
+2. Applied research and fundamental research
+3. Quantitative research and qualitative research
+4. Other types of research
+
+### Types of researches explained
+- **Descriptive** - It involves an attempt to identify, determine or describe something
+- **Analytical research** - involves the use of facts and information already available for the researcher and analyzing it to make critical information of material.
+
+- **Applied research** is a research that discovers a solution for some pressing practical problem, facing a society, business organization or country
+
+- **Basic research** is also known as pure or fundamental research.
+ It is undertaken for the sake of knowledge without any intention to apply it in practice
+
+- **One-time research** is a research confined to a single time-period
+
+- **Longitudinal research** is carried on over several time periods
+
+- **Exploratory research** involves Development of hypothesis rather than their testing
+
+- **Formulized research** are those with substantial structure and Specific HYPOTHESIS to be tested
+
+## Approaches of Research 
+
+- Quantitative approach
+- Qualitative approach
+
+## Approaches of Research explained
+- **Quantitative approach of research** involves the generation of data in quantitative form which can be subjected to rigorous quantitative analysis in a formal and rigid fashion.
+
+- **Qualitative approach** is concerned with subjective assessment of attitudes, opinions and behaviour. Research in such a situation is a function of researchers’ insights and impression.
+
+1. A mixture of methods may be used.
+2. Researchers may seek to increase reliability and validity by using both quantitative and qualitative approaches. This is called **triangulation!**
+
+
+### Similarities 
+- Both do researches.
+- Both methods use observations as their tools.
+- Both use sampling procedures.
+- Both use interview guide in their research instruments.
+
+### Differences 
+- **Information dealt** - quantitative research involve numerical whereas qualitative are the opposite.
+- **Methods of analysis** - qualitative researches use descriptive analysis through words whilst quantitative researches use statistical analysis
+
+- **Research methods** are all methods or techniques that are used for conducting a research.
+
+- **Methods** refers to the techniques researcher use to collect and analyze data. It is the specific techniques, tools or procedures applied to achieve a given objective.
+
+Research methods can be put into the following three
+groups:-
+1. Methods concerning with the **collection of data**.
+These methods will be used where the data already available are not sufficient to arrive at the required solution.
+2. Methods of statistical techniques used for **establishing relationship between the data and the unknowns**.
+3. Methods used to evaluate the accuracy of the results obtained.
+
+ - Note: The last two groups are generally taken as “ **analytical tools of research**”
+ 
+## Methodology
+**Methodology** refers to the study of the general approach to inquiry in a given field.It can also be said as a science of studying how research is done scientifically.
+
+- **Research problem** refers to some difficulty which a researcher experiences in the context of either a theoretical or practical situation and wants to obtain a solution for the same.
+
+Research problem exists if the following conditions are met.
+- Some difficulty problem facing by an individual or group
+- Need to attain objectives
+- Availability of alternative means for obtaining the objectives one wishes to attain
+- Some doubt in the mind of a researcher with regard to the selection of alternatives
+
+## Sources of a research problem
+- People
+- Problem
+- Program 
+
+## Research objectives
+- General objectives – statement that tells the overall aim of undertaking a given topic.
+- Specific objectives – provides sub-ways of attaining the above mentioned general objectives.
+
+
+  """, bookid: "Research")
 ];

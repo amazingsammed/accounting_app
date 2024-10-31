@@ -15,6 +15,15 @@ extension LoadingElevatedButtonExtension on ElevatedButton {
     if (icon != null) {
       return Obx(() => loadState.value
           ? ElevatedButton.icon(
+        style: ButtonStyle(
+          foregroundColor: WidgetStateProperty.all(Colors.white),
+          backgroundColor: WidgetStateProperty.all(Colors.black),
+          shape: WidgetStateProperty.all(
+            RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(15),
+            ),
+          ),
+        ),
               onPressed: null,
               label: Text(text ?? ''),
               icon: const Spinner(

@@ -41,9 +41,9 @@ class _PageViewerState extends State<PageViewer> {
           data: widget.topic.content,
           styleSheet: MarkdownStyleSheet.fromTheme(Get.theme).copyWith(
             p: TextStyle(fontSize: 18*_scale),
-            h1: TextStyle(fontSize: 30*_scale),
-            h2: TextStyle(fontSize: 26*_scale),
-              h3: TextStyle(fontSize: 24*_scale)
+            h1: TextStyle(fontSize: 30*_scale,fontWeight: FontWeight.bold),
+            h2: TextStyle(fontSize: 26*_scale,fontWeight: FontWeight.bold),
+              h3: TextStyle(fontSize: 24*_scale,fontWeight: FontWeight.bold)
           ),
 
         ),

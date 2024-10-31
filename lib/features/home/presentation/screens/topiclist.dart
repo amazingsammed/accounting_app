@@ -52,15 +52,9 @@ class TopicTile extends StatelessWidget {
       onPressed: onTap,
       child: ListTile(
         contentPadding: EdgeInsets.zero,
-        leading: Container(
-          height: 40,
-          width: 40,
-          alignment: Alignment.center,
-          padding: EdgeInsets.all(10),
-          decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(6),
-              color: bgColor.withOpacity(0.4)),
-          child: Text(index.toString()),
+        leading: CircleAvatar(
+          backgroundColor: Colors.black54,
+          child:  Text(index.toString(),style: TextStyle(color: Colors.white),),
         ),
         title: Text(
           title,

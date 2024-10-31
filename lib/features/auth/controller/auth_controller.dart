@@ -24,7 +24,7 @@ class AuthController extends GetxController{
       loading.value = false;
       showErrorSnackbar(message: failure.message);
     }, (exists) {
-      showSuccessSnackbar(message: "Login Successful");
+     // showSuccessSnackbar(message: "Login Successful");
       loading.value = false;
     });
   }
