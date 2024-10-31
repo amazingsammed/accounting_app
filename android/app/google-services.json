@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "623162670259",
+    "firebase_url": "https://accountingdevapp-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "accountingdevapp",
+    "storage_bucket": "accountingdevapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623162670259:android:5d3cde1811f5bd1e9504c6",
+        "android_client_info": {
+          "package_name": "com.trustmedia.accounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623162670259-5c6b5bhjmrkqdim230gcj5cmp0a4jdgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trustmedia.accounting",
+            "certificate_hash": "6f5d23fc56663663ace00a66c7a8865d2c29e883"
+          }
+        },
+        {
+          "client_id": "623162670259-0splboej91m7snfgq2novrk3c9s991sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZwm6942Gfhdvvq0hxyPCIESCDdJ5Yhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623162670259-0splboej91m7snfgq2novrk3c9s991sf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "623162670259-el3e240cjoe6ahmnjqu28khnisgep9k7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trustmedia.accounting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
